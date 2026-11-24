@@ -1,1 +1,6 @@
 
+python-telegram-bot
+faster-whisper
+deep-translator
+edge-tts
+
